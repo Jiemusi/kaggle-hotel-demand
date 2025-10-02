@@ -2,8 +2,6 @@
 
 Predicting hotel booking cancellations with **83.98% accuracy and 89.78% ROC-AUC** using Random Forest.
 
----
-
 ## 📖 Full Project Documentation
 
 **See [04_summary.ipynb](notebooks/04_summary.ipynb) for complete analysis** including:
@@ -11,8 +9,6 @@ Predicting hotel booking cancellations with **83.98% accuracy and 89.78% ROC-AUC
 - Feature engineering process
 - Model comparison & selection
 - Business recommendations
-
----
 
 ## Quick Results
 
@@ -33,8 +29,6 @@ Predicting hotel booking cancellations with **83.98% accuracy and 89.78% ROC-AUC
 | 4 | total_of_special_requests | 8.51% |
 | 5 | market_segment | 7.73% |
 
----
-
 ## Project Structure
 
 ```
@@ -51,21 +45,15 @@ Predicting hotel booking cancellations with **83.98% accuracy and 89.78% ROC-AUC
 └── requirements.txt
 ```
 
----
-
 ## Dataset
 
 [Hotel Booking Demand (Kaggle)](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 87,370 bookings • 32 features • 27.5% cancellation rate
 
----
-
 ## Tools used
 
 Python • Pandas • Scikit-learn • XGBoost • LightGBM • Matplotlib • Seaborn
-
----
 
 ## License
 
